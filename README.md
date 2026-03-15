@@ -1,16 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,16213e,0f3460&height=280&section=header&text=Hardik%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=00ff41&desc=Frontend%20%7C%20Backend%20%7C%20ML%20Enthusiast%20%7C%20Linux%20Lover&descAlignY=55&descAlign=60&descColor=00cc33)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0,0d0d1a,1a0533,2d1b69&height=280&section=header&text=Hardik%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=bf5fff&desc=Frontend%20%7C%20Backend%20%7C%20ML%20Enthusiast%20%7C%20Linux%20Lover&descAlignY=55&descAlign=60&descColor=9b59b6)
 
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=echo+%22Hello%2C+World!%22;+Building+on+Linux%2C+Living+on+Terminal;+ML+%7C+Backend+%7C+Frontend+Dev;+Powered+by+Python+%26+Coffee+%E2%98%95;+Open+Source+Enthusiast+%F0%9F%90%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=BF5FFF&background=00000000&center=true&vCenter=true&width=550&lines=echo+%22Hello%2C+World!%22;Building+on+Linux%2C+Living+on+Terminal+%F0%9F%90%A7;ML+%7C+Backend+%7C+Frontend+Dev;Powered+by+Python+%26+Coffee+%E2%98%95;LLMs+%7C+FastAPI+%7C+PyTorch+Enjoyer;Open+Source+%26+Linux+Forever+%F0%9F%94%AE" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   [![GitHub Badge](https://img.shields.io/badge/GitHub-HARDIKSINGH150206-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HARDIKSINGH150206)
-  [![Linux Badge](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-  [![Python Badge](https://img.shields.io/badge/Python-Lover-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Linux Badge](https://img.shields.io/badge/OS-Linux-8A2BE2?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+  [![Python Badge](https://img.shields.io/badge/Python-Lover-7B2FBE?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
@@ -44,6 +44,11 @@ Linux | Python | React | FastAPI
 
 $ echo $PASSION
 "Code is poetry written for machines."
+
+$ sudo apt install motivation
+[sudo] password: ********
+Installing... ████████████ 100%
+Motivation installed successfully!
 ```
 
 - 🔭 Building **ML-powered web apps**
@@ -84,6 +89,24 @@ $ echo $PASSION
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HARDIKSINGH150206&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## 💻 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Coming Soon 🚀](#)** | 🤖 ML-powered intelligent web application with FastAPI backend and React frontend. | ![Python](https://img.shields.io/badge/-Python-8A2BE2?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-7B2FBE?style=flat-square&logo=react&logoColor=white) |
+| **[Coming Soon 🧠](#)** | 🔥 Deep learning model fine-tuned with PyTorch and served via REST API. | ![PyTorch](https://img.shields.io/badge/-PyTorch-9B59B6?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-6C3483?style=flat-square&logo=fastapi&logoColor=white) |
+| **[Coming Soon 🐧](#)** | ⚙️ Linux-based system utility built with C++ for performance monitoring. | ![C++](https://img.shields.io/badge/-C++-7D3C98?style=flat-square&logo=cplusplus&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-8A2BE2?style=flat-square&logo=linux&logoColor=white) |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -91,18 +114,26 @@ $ echo $PASSION
 <table border="0" cellpadding="0" cellspacing="10">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HARDIKSINGH150206&show_icons=true&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HARDIKSINGH150206&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=bf5fff&icon_color=9b59b6&text_color=c9d1d9" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARDIKSINGH150206&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARDIKSINGH150206&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=bf5fff&text_color=c9d1d9" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=HARDIKSINGH150206&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41" />
+<img src="https://streak-stats.demolab.com?user=HARDIKSINGH150206&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=bf5fff&fire=9b59b6&currStreakLabel=bf5fff" />
 
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARDIKSINGH150206&bg_color=0d0d1a&color=bf5fff&line=9b59b6&point=bf5fff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -121,19 +152,23 @@ $ echo $PASSION
 
 <div align="center">
 
-### 💻 Terminal Wisdom
+### 💜 Terminal Wisdom
 
 <table align="center">
     <tr>
-        <td><img src="https://readme-jokes.vercel.app/api?theme=terminal" width="400" alt="Dev Joke" /></td>
+        <td><img src="https://readme-jokes.vercel.app/api?bgColor=%230d0d1a&borderColor=%23bf5fff&qColor=%23bf5fff&aColor=%239b59b6&codeColor=%238A2BE2" width="400" alt="Dev Joke" /></td>
         <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="400" alt="Quote" /></td>
     </tr>
 </table>
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=HARDIKSINGH150206&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=HARDIKSINGH150206&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" />
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0,0f3460,16213e,1a1a2e&height=120&section=footer&fontColor=00ff41&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0,2d1b69,1a0533,0d0d1a&height=120&section=footer&fontColor=bf5fff&animation=fadeIn)
