@@ -1,16 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0,0d0d1a,2d1b69,6a0dad,bf5fff&height=160&section=header&fontSize=85&animation=fadeIn&fontColor=ffffff&stroke=bf5fff&strokeWidth=2)
-
-<div align="center">
-
-```
- _   _    _    ____  ____ ___ _  __   ____ ___ _   _  ____ _   _ 
-| | | |  / \  |  _ \|  _ \_ _| |/ /  / ___|_ _| \ | |/ ___| | | |
-| |_| | / _ \ | |_) | | | | || ' /   \___ \| ||  \| | |  _| |_| |
-|  _  |/ ___ \|  _ <| |_| | || . \    ___) | || |\  | |_| |  _  |
-|_| |_/_/   \_\_| \_\____/___|_|\_\  |____/___|_| \_|\____|_| |_|
-```
-
-</div>
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0,080010,2d0a5e,6a0dad&height=300&text=HARDIK%20SINGH&fontSize=120&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=bf5fff&strokeWidth=3&desc=Frontend%20·%20Backend%20·%20ML%20·%20Linux&descAlignY=72&descAlign=50&descColor=bf5fff&descSize=20)
 
 <div align="center">
 
@@ -173,4 +161,4 @@ Motivation installed successfully!
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0,2d1b69,1a0533,0d0d1a&height=120&section=footer&fontColor=bf5fff&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0,080010,2d0a5e,6a0dad&height=120&section=footer&fontColor=bf5fff&animation=fadeIn)
