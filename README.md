@@ -1,4 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0,0d0d1a,2d1b69,6a0dad,bf5fff&height=300&section=header&text=Hardik%20Singh&fontSize=85&animation=fadeIn&fontAlignY=40&fontColor=ffffff&stroke=bf5fff&strokeWidth=2&desc=Frontend%20%7C%20Backend%20%7C%20ML%20Enthusiast%20%7C%20Linux%20Lover&descAlignY=60&descAlign=50&descColor=d8b4fe)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0,0d0d1a,2d1b69,6a0dad,bf5fff&height=160&section=header&fontSize=85&animation=fadeIn&fontColor=ffffff&stroke=bf5fff&strokeWidth=2)
+
+<div align="center">
+
+```
+ _   _    _    ____  ____ ___ _  __   ____ ___ _   _  ____ _   _ 
+| | | |  / \  |  _ \|  _ \_ _| |/ /  / ___|_ _| \ | |/ ___| | | |
+| |_| | / _ \ | |_) | | | | || ' /   \___ \| ||  \| | |  _| |_| |
+|  _  |/ ___ \|  _ <| |_| | || . \    ___) | || |\  | |_| |  _  |
+|_| |_/_/   \_\_| \_\____/___|_|\_\  |____/___|_| \_|\____|_| |_|
+```
+
+</div>
 
 <div align="center">
 
