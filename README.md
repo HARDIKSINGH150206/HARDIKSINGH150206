@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0,0d0d1a,1a0533,2d1b69&height=280&section=header&text=Hardik%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=bf5fff&desc=Frontend%20%7C%20Backend%20%7C%20ML%20Enthusiast%20%7C%20Linux%20Lover&descAlignY=55&descAlign=60&descColor=9b59b6)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0,0d0d1a,2d1b69,6a0dad,bf5fff&height=300&section=header&text=Hardik%20Singh&fontSize=85&animation=fadeIn&fontAlignY=40&fontColor=ffffff&stroke=bf5fff&strokeWidth=2&desc=Frontend%20%7C%20Backend%20%7C%20ML%20Enthusiast%20%7C%20Linux%20Lover&descAlignY=60&descAlign=50&descColor=d8b4fe)
 
 <div align="center">
 
@@ -94,16 +94,6 @@ Motivation installed successfully!
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HARDIKSINGH150206&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
-
----
-
-## 💻 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Coming Soon 🚀](#)** | 🤖 ML-powered intelligent web application with FastAPI backend and React frontend. | ![Python](https://img.shields.io/badge/-Python-8A2BE2?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-7B2FBE?style=flat-square&logo=react&logoColor=white) |
-| **[Coming Soon 🧠](#)** | 🔥 Deep learning model fine-tuned with PyTorch and served via REST API. | ![PyTorch](https://img.shields.io/badge/-PyTorch-9B59B6?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-6C3483?style=flat-square&logo=fastapi&logoColor=white) |
-| **[Coming Soon 🐧](#)** | ⚙️ Linux-based system utility built with C++ for performance monitoring. | ![C++](https://img.shields.io/badge/-C++-7D3C98?style=flat-square&logo=cplusplus&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-8A2BE2?style=flat-square&logo=linux&logoColor=white) |
 
 ---
 
