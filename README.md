@@ -103,7 +103,7 @@ print(me.motto())
 ║                 → AI & ML            ║
 ║                                      ║
 ║  🐧  Distro    → Ubuntu 24.04 LTS    ║
-║  ⚡  Fun fact  → I rice my desktop   ║
+║  ⚡  Fun fact  → I rice my desktop    ║
 ║                                      ║
 ║  $ uptime                            ║
 ║  Coding non-stop since forever...    ║
@@ -171,13 +171,6 @@ print(me.motto())
 
 </div>
 
----
-
-## 🏆 Hall of Fame
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARDIKSINGH150206&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
 
 ---
 
