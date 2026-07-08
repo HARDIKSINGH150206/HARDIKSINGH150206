@@ -1,242 +1,292 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     BANNER SECTION                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-![top](https://capsule-render.vercel.app/api?type=rect&color=0,03000a,0d0020,1a0040,03000a&height=4&section=header)
-
 <div align="center">
 
-![name](https://capsule-render.vercel.app/api?type=rect&color=0,03000a,0d0020,1a0040,0d0020,03000a&height=180&text=HARDIK%20SINGH&fontSize=96&fontColor=c77dff&fontAlignY=58&animation=fadeIn&desc=◈%20%20FRONTEND%20%20·%20%20BACKEND%20%20·%20%20ML%20ENTHUSIAST%20%20·%20%20UBUNTU%20LINUX%20%20◈&descAlignY=82&descAlign=50&descColor=9d4edd&descSize=14&stroke=7b2fff&strokeWidth=1)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hardik%20Singh&fontAlign=50&fontAlignY=38&color=0:03000a,25:0d0020,50:1a0040,75:7b2fff,100:c77dff&fontColor=ffffff&fontSize=64&animation=fadeIn&desc=AI%2FML%20Developer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58"/>
 
-![bottom-line](https://capsule-render.vercel.app/api?type=rect&color=0,03000a,7b2fff,c77dff,7b2fff,03000a&height=2&section=header)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=C77DFF&center=true&vCenter=true&width=900&height=70&lines=Building+clean%2C+scalable%2C+production-minded+software;Working+with+AI%2FML%2C+Full-Stack+Development+and+Modern+APIs;Focused+on+real-world+products%2C+clean+systems+and+strong+UI"/>
 
-</div>
+<br/><br/>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=C77DFF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=~%2F%24+whoami+→+hardik_singh;~%2F%24+uname+-a+→+Ubuntu+24.04+LTS+🐧;~%2F%24+echo+%24STACK+→+Python+%7C+React+%7C+FastAPI+%7C+ML;~%2F%24+cat+passion.txt+→+Code.+Break.+Learn.+Repeat.+🔁;~%2F%24+sudo+apt+install+future+→+Installing...+██████+100%25" alt="typing"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=HARDIKSINGH150206&style=for-the-badge&color=7B2FFF"/>
+<img src="https://img.shields.io/github/followers/HARDIKSINGH150206?style=for-the-badge&logo=github&color=C77DFF"/>
+<img src="https://img.shields.io/github/stars/HARDIKSINGH150206?style=for-the-badge&logo=github&color=9D4EDD"/>
 
-<br>
-
-<!-- BADGES -->
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-%40HARDIKSINGH150206-0d1117?style=for-the-badge&logo=github&logoColor=c77dff&labelColor=0d1117)](https://github.com/HARDIKSINGH150206)&nbsp;
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu%2024.04-0d1117?style=for-the-badge&logo=ubuntu&logoColor=c77dff&labelColor=0d1117)](https://ubuntu.com)&nbsp;
-[![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=c77dff&labelColor=0d1117)](https://python.org)&nbsp;
-[![PyTorch](https://img.shields.io/badge/-PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=c77dff&labelColor=0d1117)](https://pytorch.org)&nbsp;
-[![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=c77dff&labelColor=0d1117)](https://react.dev)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  ABOUT + STATUS                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<div align="center">
 
-<table width="100%" border="0" cellpadding="10">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7B2FFF,100:C77DFF"/>
+
+# 👨‍💻 About Me
+
+</div>
+
+I am **Hardik Singh**, an **AI/ML and Full-Stack Developer** focused on building clean, scalable, and practical software products. I enjoy working across the stack, from designing polished user interfaces to building APIs, backend systems, and AI-powered features.
+
+I have hands-on experience with **Python, React, FastAPI, Node.js, MongoDB, Linux, and Machine Learning workflows**. I like building projects that are not just technically interesting, but also usable, well-structured, and portfolio-ready.
+
+Currently, I am focused on:
+
+* Building AI-powered web applications
+* Improving backend architecture and API design
+* Exploring LLMs, AI agents, and applied machine learning
+* Creating clean developer tools and recruiter-friendly products
+* Working deeply with Ubuntu Linux and modern development environments
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7B2FFF,100:C77DFF"/>
+
+# ⚡ Tech Stack
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=C77DFF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=C77DFF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=C77DFF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=C77DFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7B2FFF,100:C77DFF"/>
+
+# 📊 GitHub Dashboard
+
+<br/>
+
+<table>
 <tr>
+
 <td width="50%" valign="top">
 
-## 🧠 The Human Behind the Code
-
-
-
-```python
-class HardikSingh:
-
-    def __init__(self):
-        self.name       = "Hardik Singh"
-        self.username   = "HARDIKSINGH150206"
-        self.location   = "India 🇮🇳"
-        self.os         = "Ubuntu 24.04 LTS 🐧"
-        self.editor     = ["Neovim", "VS Code"]
-        self.hobbies    = ["Coding", "Breaking things",
-                           "then fixing them 😅"]
-
-    @property
-    def stack(self):
-        return {
-          "languages" : ["Python","C++","JS","C"],
-          "frontend"  : ["React"],
-          "backend"   : ["FastAPI", "Node.js"],
-          "database"  : ["MongoDB"],
-          "ml"        : ["PyTorch","Llama","LLMs"],
-          "tools"     : ["Git","Docker","Linux"],
-        }
-
-    def motto(self):
-        return "Code. Break. Learn. Repeat. 🔁"
-
-me = HardikSingh()
-print(me.motto())
-# → Code. Break. Learn. Repeat. 🔁
-```
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HARDIKSINGH150206&theme=tokyonight"/>
 
 </td>
+
 <td width="50%" valign="top">
 
-## 🖥️ Live Terminal
-
-<br>
-
-```bash
-╔══════════════════════════════════════╗
-║      HARDIK@UBUNTU ~ TERMINAL        ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  $ status --current                  ║
-║                                      ║
-║  🔭  Building  → ML-powered Web Apps ║
-║  🌱  Learning  → LLMs & AI Agents    ║
-║  🤝  Open to   → Collaborations      ║
-║  💬  Ask me    → Python · React      ║
-║                 → System Design      ║
-║                 → AI & ML            ║
-║                                      ║
-║  🐧  Distro    → Ubuntu 24.04 LTS    ║
-║  ⚡  Fun fact  → I rice my desktop    ║
-║                                      ║
-║  $ uptime                            ║
-║  Coding non-stop since forever...    ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
-> *"First, solve the problem. Then, write the code."*
+<img width="100%" src="https://streak-stats.demolab.com?user=HARDIKSINGH150206&theme=tokyonight&hide_border=true&background=0D1117&ring=C77DFF&fire=7B2FFF&currStreakLabel=C77DFF"/>
 
 </td>
+
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     ARSENAL                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<table>
+<tr>
 
-## 🛠️ Arsenal
+<td width="33%">
 
-<div align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HARDIKSINGH150206&theme=tokyonight"/>
 
-**⚡ Languages**
+</td>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,c&theme=dark&perline=8"/>
+<td width="33%">
 
-<br>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HARDIKSINGH150206&theme=tokyonight"/>
 
-**🎨 Frontend & Backend**
+</td>
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,mongodb&theme=dark&perline=8"/>
+<td width="33%">
 
-<br>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HARDIKSINGH150206&theme=tokyonight"/>
 
-**🤖 ML / AI**
+</td>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=8"/>
-
-<br>
-
-**🧰 DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=linux,git,docker,bash,vim&theme=dark&perline=8"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     STATS                               -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📊 War Room — Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HARDIKSINGH150206&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=05000f&title_color=c77dff&icon_color=9d4edd&text_color=e2d9f3&border_radius=12" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARDIKSINGH150206&layout=compact&theme=midnight-purple&hide_border=true&bg_color=05000f&title_color=c77dff&text_color=e2d9f3&border_radius=12" height="175"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=HARDIKSINGH150206&theme=midnight-purple&hide_border=true&background=05000f&ring=c77dff&fire=9d4edd&currStreakLabel=c77dff&sideLabels=c77dff&dates=7b2fff&border_radius=12" height="175"/>
-
-</div>
-
-
----
-
-## 📈 Activity Pulse
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARDIKSINGH150206&bg_color=05000f&color=c77dff&line=7b2fff&point=c77dff&area=true&area_color=1a0040&hide_border=true&radius=8"/>
-</div>
-
----
-
-## 🐍 My Contributions Being Eaten Alive
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARDIKSINGH150206/HARDIKSINGH150206/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARDIKSINGH150206/HARDIKSINGH150206/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/HARDIKSINGH150206/HARDIKSINGH150206/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
-## 🎧 Coding Fuel
-
-<div align="center">
-
-[![Lofi](https://img.shields.io/badge/Lo--fi%20%26%20Dark%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
-[![Focus](https://img.shields.io/badge/Focus%20Mode-ON-c77dff?style=for-the-badge&logo=headphones&logoColor=white)]()
-[![Coffee](https://img.shields.io/badge/Coffee%20Count-∞-7b2fff?style=for-the-badge&logo=buymeacoffee&logoColor=white)]()
-
-</div>
-
----
-
-## 💬 Brain Fuel
-
-<div align="center">
-<table border="0">
-  <tr>
-    <td><img src="https://readme-jokes.vercel.app/api?bgColor=%2305000f&borderColor=%23c77dff&qColor=%23c77dff&aColor=%239d4edd&codeColor=%237b2fff&textColor=%23e2d9f3" width="370"/></td>
-    <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="370"/></td>
-  </tr>
+</tr>
 </table>
+
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
-### 👁️ Who's Been Lurking?
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7B2FFF,100:C77DFF"/>
 
-![views](https://komarev.com/ghpvc/?username=HARDIKSINGH150206&color=7b2fff&style=for-the-badge&label=PROFILE+VIEWS)
-![followers](https://img.shields.io/github/followers/HARDIKSINGH150206?style=for-the-badge&color=7b2fff&labelColor=0d1117&logo=github)
-![stars](https://img.shields.io/github/stars/HARDIKSINGH150206?style=for-the-badge&color=7b2fff&labelColor=0d1117&logo=github)
+# 📈 Contribution Activity
 
-<br>
+<br/>
 
-*⭐ Star some repos if you like what you see — it means the world!*
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HARDIKSINGH150206&theme=tokyo-night&hide_border=true&area=true&radius=15"/>
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0,03000a,0d0020,1a0040,0d0020,03000a&height=60&section=footer&text=Made%20with%20💜%20%2B%20Ubuntu%20%2B%20way%20too%20much%20coffee&fontSize=13&fontColor=7b2fff&fontAlignY=50&animation=fadeIn)
-![bottom-line](https://capsule-render.vercel.app/api?type=rect&color=0,03000a,7b2fff,c77dff,7b2fff,03000a&height=2&section=footer)
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7B2FFF,100:C77DFF"/>
+
+# 🚀 Featured Projects
+
+<br/>
+
+<table>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="180"/>
+
+<br/>
+
+### 🌞 SuryaCast-X
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=C77DFF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI-SOLAR%20FLARE%20FORECASTING-7B2FFF?style=for-the-badge"/>
+
+<br/><br/>
+
+AI-powered solar flare nowcasting and forecasting system using soft and hard X-ray data.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" height="180"/>
+
+<br/>
+
+### 🎥 Video Search AI
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=C77DFF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NLP-VIDEO%20RETRIEVAL-C77DFF?style=for-the-badge"/>
+
+<br/><br/>
+
+Natural language system for finding and extracting relevant video segments from recorded footage.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" height="180"/>
+
+<br/>
+
+### 💼 Developer Portfolio
+
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=C77DFF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/WEB-PORTFOLIO-9D4EDD?style=for-the-badge"/>
+
+<br/><br/>
+
+A clean developer portfolio with GitHub activity, project showcase, and recruiter-focused presentation.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7B2FFF,100:C77DFF"/>
+
+# 🐍 Contribution Snake
+
+<br/>
+
+<img width="98%" src="https://raw.githubusercontent.com/HARDIKSINGH150206/HARDIKSINGH150206/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7B2FFF,100:C77DFF"/>
+
+# 🌐 Connect With Me
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/HARDIKSINGH150206">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C77DFF"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="YOUR_LINKEDIN_URL_HERE">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C77DFF"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=C77DFF"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/><br/>
+
+<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:03000a,25:0d0020,50:1a0040,75:7b2fff,100:c77dff"/>
+
+</div>
